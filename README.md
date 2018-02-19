@@ -69,9 +69,9 @@ Delrin Solid V Wheels
 
 30x [Black Angle Corner Connector](http://openbuildspartstore.com/black-angle-corner-connector/)
 
-[Openbuilds Low Profile Screws](http://openbuildspartstore.com/low-profile-screws-m5/)
+[Openbuilds Low Profile Screws](http://openbuildspartstore.com/low-profile-screws-m5/)  
 60x M5*8  
-4x M5*40  
+4x M5\*40  
 6x M5*25  
 4x M5*15  
 
