@@ -69,11 +69,20 @@ Delrin Solid V Wheels
 
 30x [Black Angle Corner Connector](http://openbuildspartstore.com/black-angle-corner-connector/)
 
-60x M5*8 [Openbuilds Low Profile Screws](http://openbuildspartstore.com/low-profile-screws-m5/)
+[Openbuilds Low Profile Screws](http://openbuildspartstore.com/low-profile-screws-m5/)
+60x M5*8  
+4x M5*40  
+6x M5*25  
+4x M5*15  
+
+[Aluminum Spacer](http://openbuildspartstore.com/aluminum-spacers/)
+4x 3mm  
+4x 6mm 
 
 50x [Tee Nuts](http://openbuildspartstore.com/tee-nuts-25-pack/)
 
-50x [Drop In Tee Nuts](http://openbuildspartstore.com/drop-in-tee-nuts/)  
+50x [Drop In Tee Nuts](http://openbuildspartstore.com/drop-in-tee-nuts/) 
+
 
 [Slot Cover™ / Panel Holder](http://openbuildspartstore.com/slot-cover-panel-holder/)  
 1250mm
