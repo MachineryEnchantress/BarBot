@@ -71,9 +71,9 @@ Delrin Solid V Wheels
 
 [Openbuilds Low Profile Screws](http://openbuildspartstore.com/low-profile-screws-m5/)  
 60x M5\*8  
-4x M5*40  
-6x M5*25  
-4x M5*15  
+4x M5\*40  
+6x M5\*25  
+4x M5\*15  
 
 [Aluminum Spacer](http://openbuildspartstore.com/aluminum-spacers/)
 4x 3mm  
