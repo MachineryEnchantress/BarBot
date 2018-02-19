@@ -44,5 +44,20 @@ See [Build Guide](https://github.com/sexycyborg/BarBot/blob/master/BarBotDrwMk01
  2x1160mm (Lower brace, shelf for bar mat)
 
 [V-Slot® 20x40 Linear Rail](http://openbuildspartstore.com/v-slot-20x40-linear-rail/)  
- 1x 1200mm (Horizontal rail for drag chain)  
- 2x 600mm (Horizontal legs)
+1x 1200mm (Horizontal rail for drag chain)  
+2x 600mm (Horizontal legs)
+
+30x [Black Angle Corner Connector](http://openbuildspartstore.com/black-angle-corner-connector/)
+
+60x M5*8 [Openbuilds Low Profile Screws](http://openbuildspartstore.com/low-profile-screws-m5/)
+
+50x [Tee Nuts](http://openbuildspartstore.com/tee-nuts-25-pack/)
+
+50x [Drop In Tee Nuts](http://openbuildspartstore.com/drop-in-tee-nuts/)
+
+#### Control Box
+[V-Slot® 20x20 Linear Rail](http://openbuildspartstore.com/v-slot-20x20-linear-rail/)  
+530mm x 4  
+165mm x 5  
+130mm x 4
+(All with threaded ends)
