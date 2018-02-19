@@ -34,3 +34,15 @@ See [Build Guide](https://github.com/sexycyborg/BarBot/blob/master/BarBotDrwMk01
 [2x A4988 Stepper Driver](http://reprap.org/wiki/A4988)  
 [Available as a kit](https://www.gearbest.com/kits/pp_228312.html?lkid=11066669)
 
+1x [RAMPS 1.4/1.5 SD Card Reader](http://amzn.to/2EYiyeb)
+
+[10x10 Drag Chain](http://amzn.to/2ECHM3W)  
+ 2 Meters 
+
+[V-Slot® 20x80 Linear Rail](http://openbuildspartstore.com/v-slot-20x80-linear-rail/)  
+ 3x1200mm (Two vertical risers and one horizontal carriage rail)  
+ 2x1160mm (Lower brace, shelf for bar mat)
+
+[V-Slot® 20x40 Linear Rail](http://openbuildspartstore.com/v-slot-20x40-linear-rail/)  
+ 1x 1200mm (Horizontal rail for drag chain)  
+ 2x 600mm (Horizontal legs)
