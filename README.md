@@ -31,4 +31,6 @@ See [Build Guide](https://github.com/sexycyborg/BarBot/blob/master/BarBotDrwMk01
 ## BOM
 [1x Arduino Mega 2560](http://reprap.org/wiki/Arduino_Mega)  
 [1x RAMPS 1.4](http://reprap.org/wiki/RAMPS_1.4)/[1.5](http://reprap.org/wiki/RAMPS_1.5)  
-[2x A4988](http://reprap.org/wiki/A4988)
+[2x A4988 Stepper Driver](http://reprap.org/wiki/A4988)  
+[Available as a kit](https://www.gearbest.com/kits/pp_228312.html?lkid=11066669)
+
