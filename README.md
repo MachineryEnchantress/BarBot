@@ -62,5 +62,5 @@ See [Build Guide](https://github.com/sexycyborg/BarBot/blob/master/BarBotDrwMk01
 130mm x 4  
 (All with 5mm threaded ends)
 
-8x [Cube Corner Connector](http://openbuildspartstore.com/cube-corner-connector/)
+8x [Cube Corner Connector](http://openbuildspartstore.com/cube-corner-connector/)  
 25x M5*15 [Openbuilds Low Profile Screws](http://openbuildspartstore.com/low-profile-screws-m5/)
