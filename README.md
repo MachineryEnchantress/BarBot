@@ -78,6 +78,8 @@ Delrin Solid V Wheels
 [Slot Cover™ / Panel Holder](http://openbuildspartstore.com/slot-cover-panel-holder/)  
 1250mm
 
+2x [Bar mat](http://amzn.to/2Eo2QvR)
+
 #### Control Box
 [V-Slot® 20x20 Linear Rail](http://openbuildspartstore.com/v-slot-20x20-linear-rail/)  
 530mm x 4  
@@ -89,3 +91,12 @@ Delrin Solid V Wheels
 
 25x M5*15 [Openbuilds Low Profile Screws](http://openbuildspartstore.com/low-profile-screws-m5/)
 
+16x [27x27 Illuminated Arcade Buttons](https://www.aliexpress.com/store/product/27-27mm-quadrate-LED-Light-Illuminated-Full-Colors-Push-Button-With-Micro-Switch-Master-Arcade-DIY/1960309_32559164401.html)
+
+1x [22mm Emergency Stop Push Button Switch 12V DC LED Illuminated (or similar)](http://amzn.to/2Chvvgb)
+
+1x [22mm Key Selector Switch](http://amzn.to/2ErJs0M)
+
+1x [Power Socket Switch IEC 320 C14](http://amzn.to/2HcuYjs)
+
+1x [12v Power Supply, 150w (Part No. MS-150-12 or similar)](https://www.aliexpress.com/item/MS-150-12-mini-size-12-5a-led-psu-150w-12v-power-supply/32663431069.html)
