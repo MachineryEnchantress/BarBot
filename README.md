@@ -64,3 +64,9 @@ See [Build Guide](https://github.com/sexycyborg/BarBot/blob/master/BarBotDrwMk01
 
 8x [Cube Corner Connector](http://openbuildspartstore.com/cube-corner-connector/)  
 25x M5*15 [Openbuilds Low Profile Screws](http://openbuildspartstore.com/low-profile-screws-m5/)
+
+1x [Motor Mount Plate - NEMA 17 Stepper Motor](http://openbuildspartstore.com/motor-mount-plate-nema-17-stepper-motor/)
+
+1x [Idler Pulley Plate](http://openbuildspartstore.com/idler-pulley-plate/)
+
+1x [Smooth Idler Pulley Kit](http://openbuildspartstore.com/smooth-idler-pulley-kit/)
