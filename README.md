@@ -5,7 +5,8 @@ An Automated Bartender powered by Arduino
 
 Based on the work of Lukas Šidlauskas:
 
-https://create.arduino.cc/projecthub/sidlauskas/barbot-cocktail-mixing-robot-0318aa<BR>
+https://create.arduino.cc/projecthub/sidlauskas/barbot-cocktail-mixing-robot-0318aa
+
 https://github.com/sidlauskaslukas/barbot
 
 ## About
