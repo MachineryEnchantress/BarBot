@@ -6,6 +6,15 @@ Based on the work of Lukas Šidlauskas:
 https://create.arduino.cc/projecthub/sidlauskas/barbot-cocktail-mixing-robot-0318aa  
 https://github.com/sidlauskaslukas/barbot
 
+[BarBot Build Video 1](https://youtu.be/aKa0YGDu1KI)  
+<img src="https://i.imgur.com/8wtoRHX.jpg" alt="BarBot Build Video 1">  
+
+[BarBot Build Video 2](https://youtu.be/N1LVktHzpnw)  
+<img src="https://i.imgur.com/5VcL5OS.jpg" alt="BarBot Build Video 2">  
+
+[BarBot Build Video 3- Demo](https://youtu.be/aPoAVoNNvHs)  
+<img src="https://i.imgur.com/NVDbh6N.jpg" alt="BarBot Build Video 3">
+
 ## About
 
 For my BarBot I wanted to make sure it was rock-solid reliable in a crowded bar environment so eliminated the touchscreen menus and wireless connectivity present in other versions of this project. Nearly any error can be dealt with by simply power cycling the device. Since there is no Raspberry Pi or SBC there is no risk of corruption when this is done. 
