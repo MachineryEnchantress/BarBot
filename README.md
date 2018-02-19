@@ -60,13 +60,23 @@ Delrin Solid V Wheels
 
 1x [Smooth Idler Pulley Kit](http://openbuildspartstore.com/smooth-idler-pulley-kit/)  
 
+[GT2-2M Timing Belt](http://openbuildspartstore.com/gt2-2m-timing-belt/)  
+3 Meters
+
+1x [GT2-2M Timing Pulley - 20 Tooth](http://openbuildspartstore.com/gt2-2m-timing-pulley-20-tooth/)
+
+2x [NEMA 17 Stepper Motor](http://openbuildspartstore.com/nema-17-stepper-motor/)  
+
 30x [Black Angle Corner Connector](http://openbuildspartstore.com/black-angle-corner-connector/)
 
 60x M5*8 [Openbuilds Low Profile Screws](http://openbuildspartstore.com/low-profile-screws-m5/)
 
 50x [Tee Nuts](http://openbuildspartstore.com/tee-nuts-25-pack/)
 
-50x [Drop In Tee Nuts](http://openbuildspartstore.com/drop-in-tee-nuts/)
+50x [Drop In Tee Nuts](http://openbuildspartstore.com/drop-in-tee-nuts/)  
+
+[Slot Cover™ / Panel Holder](http://openbuildspartstore.com/slot-cover-panel-holder/)  
+1250mm
 
 #### Control Box
 [V-Slot® 20x20 Linear Rail](http://openbuildspartstore.com/v-slot-20x20-linear-rail/)  
