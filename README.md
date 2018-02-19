@@ -101,5 +101,4 @@ Delrin Solid V Wheels
 
 1x [12v Power Supply, 150w (Part No. MS-150-12 or similar)](https://www.aliexpress.com/item/MS-150-12-mini-size-12-5a-led-psu-150w-12v-power-supply/32663431069.html)
 
-1x [Ribbon cable to 18 pin connector 40CM long (Optional but helpful)]
-(https://item.taobao.com/item.htm?id=520267411024)
+1x [Ribbon cable to 18 pin connector 40CM long (Optional but helpful)](https://item.taobao.com/item.htm?id=520267411024)
