@@ -59,5 +59,8 @@ See [Build Guide](https://github.com/sexycyborg/BarBot/blob/master/BarBotDrwMk01
 [V-Slot® 20x20 Linear Rail](http://openbuildspartstore.com/v-slot-20x20-linear-rail/)  
 530mm x 4  
 165mm x 5  
-130mm x 4
-(All with threaded ends)
+130mm x 4  
+(All with 5mm threaded ends)
+
+8x [Cube Corner Connector](http://openbuildspartstore.com/cube-corner-connector/)
+25x M5*15 [Openbuilds Low Profile Screws](http://openbuildspartstore.com/low-profile-screws-m5/)
