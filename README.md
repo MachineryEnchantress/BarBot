@@ -24,3 +24,7 @@ Barbots of this configuration typically use either a servo or a stepper motor wi
 In the build and demonstration videos, you'll see that the full 25ml "shot" the spirit measure contains is usually only partially dispensed. This is because the actual shot size is defined in the code as a function of how long the spout is depressed. This allows for finer tuning of the drink flavor and portion size which would not be possible if only 25ml increments were used.
 
 This BarBot was designed to be easy to build with off-the-shelf OpenBuilds components, V-Slot aluminum extrusion, and low-cost 3D printer parts. The heart of the BarBot is a standard Arduino Mega, RAMPS 1.4/1.5 and A4988 stepper driver combination as used in many 3D printers.
+
+<img src="https://i.imgur.com/Lqtft5d.jpg" width="800" height="565" alt="BarBot"><BR>
+See [Build Guide](https://github.com/sexycyborg/BarBot/blob/master/BarBotDrwMk01.PDF). 
+  *Guide and SolidWorks CAD drawings courtesy of [Vexelius](https://www.thingiverse.com/Vexelius/).*
