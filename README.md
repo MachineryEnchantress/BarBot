@@ -47,6 +47,19 @@ See [Build Guide](https://github.com/sexycyborg/BarBot/blob/master/BarBotDrwMk01
 1x 1200mm (Horizontal rail for drag chain)  
 2x 600mm (Horizontal legs)
 
+1x [V-Slot® NEMA 17 Linear Actuator Bundle](http://openbuildspartstore.com/v-slot-nema-17-linear-actuator-bundle-lead-screw/)  
+500mm (400mm is better if you can get it or make it yourself)
+
+1x [V-Slot Gantry Set](http://openbuildspartstore.com/v-slot-gantry-set/)  
+20mm - 80mm (Universal)  
+Delrin Solid V Wheels
+
+1x [Motor Mount Plate - NEMA 17 Stepper Motor](http://openbuildspartstore.com/motor-mount-plate-nema-17-stepper-motor/)
+
+1x [Idler Pulley Plate](http://openbuildspartstore.com/idler-pulley-plate/)
+
+1x [Smooth Idler Pulley Kit](http://openbuildspartstore.com/smooth-idler-pulley-kit/)  
+
 30x [Black Angle Corner Connector](http://openbuildspartstore.com/black-angle-corner-connector/)
 
 60x M5*8 [Openbuilds Low Profile Screws](http://openbuildspartstore.com/low-profile-screws-m5/)
@@ -63,10 +76,6 @@ See [Build Guide](https://github.com/sexycyborg/BarBot/blob/master/BarBotDrwMk01
 (All with 5mm threaded ends)
 
 8x [Cube Corner Connector](http://openbuildspartstore.com/cube-corner-connector/)  
+
 25x M5*15 [Openbuilds Low Profile Screws](http://openbuildspartstore.com/low-profile-screws-m5/)
 
-1x [Motor Mount Plate - NEMA 17 Stepper Motor](http://openbuildspartstore.com/motor-mount-plate-nema-17-stepper-motor/)
-
-1x [Idler Pulley Plate](http://openbuildspartstore.com/idler-pulley-plate/)
-
-1x [Smooth Idler Pulley Kit](http://openbuildspartstore.com/smooth-idler-pulley-kit/)
