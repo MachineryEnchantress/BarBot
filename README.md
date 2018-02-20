@@ -92,6 +92,8 @@ Delrin Solid V Wheels
 
 50x [Drop In Tee Nuts](http://openbuildspartstore.com/drop-in-tee-nuts/) 
 
+30x [Nylon Insert Hex Locknut - M5](http://openbuildspartstore.com/nylon-insert-hex-locknut-m5/)  
+
 [Slot Cover™ / Panel Holder](http://openbuildspartstore.com/slot-cover-panel-holder/)  
 1250mm
 
